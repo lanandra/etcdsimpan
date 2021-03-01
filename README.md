@@ -1,7 +1,12 @@
 # etcdsimpan
-etcdsimpan is simple tool for backup kubernetes etcd datastore
+etcdsimpan is simple tool for backup kubernetes etcd datastore  
 
-## How to use
+## Prerequisites  
+
+- python 3.6+  
+- etcdctl 3.4.14+
+
+## How to use  
  
 1. Clone this repository to your local  
 2. Install required requirements  
