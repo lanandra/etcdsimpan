@@ -1,4 +1,7 @@
-# etcdsimpan
+# etcdsimpan  
+
+![etcdsimpan_logo](https://github.com/lanandra/etcdsimpan/blob/main/etcdsimpan_logo.jpg?raw=true)  
+
 etcdsimpan is simple tool for backup kubernetes etcd datastore  
 
 ## Prerequisites  
